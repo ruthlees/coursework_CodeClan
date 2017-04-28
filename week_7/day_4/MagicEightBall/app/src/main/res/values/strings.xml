@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Magic Eight Ball</string>
+    <string name="dev_name">Ruth</string>
+    <string name="question">Question the Eight Ball</string>
+    <string name="Shake">Shake</string>
+    <string name="answer_activity_title">Your answer is...</string>
+    <string name="go_to_website">Go to the Website</string>
+</resources>
